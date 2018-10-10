@@ -1,0 +1,84 @@
+#LT {
+	width: 30%;
+	padding: 10px;
+}
+#ltt {
+	width: 100%;
+	border-collapse: collapse;
+}
+td {
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+#lt1 {
+	background-color: rgb(253,185,19);
+	border: 1px solid rgb(253,185,19);
+}
+#lt2 {
+	background-color: rgb(0,106,68);
+	border: 1px solid rgb(0,106,68);
+}
+#lt3 {
+	background-color: rgb(193,39,45);
+	border: 1px solid rgb(193,39,45);
+}
+
+
+
+#LV {
+	width: 30%;
+	padding: 10px;
+}
+#lvt {
+	width: 100%;
+	border-collapse: collapse;
+}
+#lv1 {
+	background-color: rgb(158,48,57);
+	padding-top: 50px;
+	padding-bottom: 80px;
+}
+#lv2 {
+	background-color: white;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+#lv3 {
+	background-color: rgb(158,48,57);
+	padding-top: 80px;
+	padding-bottom: 50px;
+}
+
+
+
+#EE {
+	width: 30%;
+	padding: 10px;
+}
+#eet {
+	width: 100%;
+	border-collapse: collapse;
+}
+td {
+	border: 1px solid black;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+#ee1 {
+	background-color: rgb(0,114,206);
+}
+#ee2 {
+	background-color: rgb(0,0,0);
+}
+#ee3 {
+	background-color: rgb(19255,255,255);
+}
+
+
+#LT, #LV, #EE {
+	float: left;
+	text-align: center;
+}
+#link {
+	float: left;
+}

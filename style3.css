@@ -1,0 +1,36 @@
+h1 {
+	padding: 10px 20px;
+}
+h2 {
+	text-align: center;
+}
+h3 {
+	padding: 10px 20px;
+}
+.link:hover {
+	background: pink;
+}
+
+.container {
+	background-color: gray;
+	font-family: 'Mali', cursive;
+}
+a:link {
+		color: white; 
+		text-decoration: none;
+		padding: 10px;
+}
+a:visited {
+    color: white;
+}
+body {
+	background-color: lightgray;
+	}
+.logo-wrapper {
+	padding: 5px;
+	text-align: center;
+
+}
+.bgcol {
+	background-image: linear-gradient(black, lightgray);
+}
